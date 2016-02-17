@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Identifier","An identifier in the pre-release or build metadata.See sections 9 and 10 of the spec for more about pre-release identifers and build metadata."]],"struct":[["Version","Represents a version number conforming to the semantic versioning scheme."]]});
